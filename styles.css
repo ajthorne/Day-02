@@ -17,18 +17,19 @@
 }
 
 .authors {
-  width: 25px;
-  list-style-type: none;
-  float: right;
-  display: inline-block;
-  padding: 0px;
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px;
+    height: 35px;
+    vertical-align: middle;
 
 }
 
 .authors img {
   border-style: none;
   border-radius: 5px;
-  padding: 3px;
+  padding: -1px;
+  width: 25px;
 }
 
 a {
@@ -69,7 +70,7 @@ span {
 }
 
 .image-number {
-color:lightgray;
+color:#D3D3D3;
 }
 
 .image-caption {
